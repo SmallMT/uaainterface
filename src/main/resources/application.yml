@@ -1,0 +1,5 @@
+server:
+  port: 8085
+#临时文件存放目录
+file:
+  temp-path: /opt/uaainterface/temp
